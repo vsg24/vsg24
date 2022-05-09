@@ -16,4 +16,7 @@ jobs:
           plugin_languages: yes
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 5173926
+          plugin_stackoverflow_sections: ''
+          plugin_stackoverflow_lines: 0
+          plugin_stackoverflow_limit: 1
           plugin_isocalendar: yes
