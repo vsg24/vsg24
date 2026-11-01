@@ -1,8 +1,5 @@
-## My name is ***Vahid*** and I'm a software developer.
+## My name is ***Vahid*** and I'm a software engineer.
 
-Over the years I've done many projects in different platforms (Web/Mobile/Embedded). These days I mostly develop with web technologies such as `PHP`, `TS/JS` and `C#`.
-
-#### Be sure to check out some of my open source projects such as [`veezee`](https://github.com/veezee-music) (the cross-platform music streamer)
-##### Also visit my [Stackoverflow profile](https://stackoverflow.com/users/5173926/vahid-amiri?tab=profile) to see my latest questions / answers and see if we can help each other ;)
+Over the years I've done many projects in different platforms (Web/Mobile/Embedded). I'm doing lots of agentic development recently. Constantly learning and adapting.
 
 ![Metrics](https://raw.githubusercontent.com/vsg24/vsg24/master/github-metrics.svg)
